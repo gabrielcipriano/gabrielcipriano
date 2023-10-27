@@ -1,21 +1,17 @@
-### Hi there 👋
+## Hi there, I'm Gabriel Cipriano 👋
 
-<!--
-**gabrielcipriano/gabrielcipriano** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+### :zap: Recent Activity
+<!--START_SECTION:activity-->
+<!--END_SECTION:activity-->
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### <img src="https://media3.giphy.com/media/S4CNuVzv50UH6gG5AN/giphy.gif?cid=ecf05e47dbmkqif1p4g2lpyegp44k864gkmp9p7bzp2k9hxh&ep=v1_stickers_search&rid=giphy.gif&ct=s" height="24"></img> Lets connect 
+<a href="https://www.linkedin.com/in/gabrielcipriano/" target="blank"><img align="center" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin Cipriano" /></a> <a href="https://twitter.com/ciprigabs" target="blank"><img align="center" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="twitter cipriano" /></a>
+
+### :octocat: some Github Statistics
 
 <div>
   <a href="https://github.com/gabrielcipriano">
-  <img height="180em" align="center" src="https://github-readme-stats.vercel.app/api?username=gabrielcipriano&count_private=true&show_icons=true&theme=nord" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=gabrielcipriano&count_private=true&show_icons=true&theme=nord" alt="gabrielcipriano"/>
+  </a>
 </div>

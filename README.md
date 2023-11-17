@@ -3,11 +3,11 @@
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#4421](https://github.com/goreleaser/goreleaser/issues/4421#issuecomment-1812807721) in [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser)
-2. 🎉 Merged PR [#1](https://github.com/gabrielcipriano/file-sort/pull/1) in [gabrielcipriano/file-sort](https://github.com/gabrielcipriano/file-sort)
-3. 💪 Opened PR [#3](https://github.com/rigille/shannon/pull/3) in [rigille/shannon](https://github.com/rigille/shannon)
-4. 🗣 Commented on [#4382](https://github.com/goreleaser/goreleaser/issues/4382#issuecomment-1782808061) in [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser)
-5. 🗣 Commented on [#5](https://github.com/sqids/sqids-java/issues/5#issuecomment-1782773005) in [sqids/sqids-java](https://github.com/sqids/sqids-java)
+1. 🗣 Commented on [#4421](https://github.com/goreleaser/goreleaser/issues/4421#issuecomment-1816350914) in [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser)
+2. 🗣 Commented on [#4421](https://github.com/goreleaser/goreleaser/issues/4421#issuecomment-1812807721) in [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser)
+3. 🎉 Merged PR [#1](https://github.com/gabrielcipriano/file-sort/pull/1) in [gabrielcipriano/file-sort](https://github.com/gabrielcipriano/file-sort)
+4. 💪 Opened PR [#3](https://github.com/rigille/shannon/pull/3) in [rigille/shannon](https://github.com/rigille/shannon)
+5. 🗣 Commented on [#4382](https://github.com/goreleaser/goreleaser/issues/4382#issuecomment-1782808061) in [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser)
 <!--END_SECTION:activity-->
 
 ### <img src="https://media3.giphy.com/media/S4CNuVzv50UH6gG5AN/giphy.gif?cid=ecf05e47dbmkqif1p4g2lpyegp44k864gkmp9p7bzp2k9hxh&ep=v1_stickers_search&rid=giphy.gif&ct=s" height="24"></img> Lets connect 

@@ -3,11 +3,11 @@
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#4427](https://github.com/goreleaser/goreleaser/pull/4427) in [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser)
-2. ❗ Opened issue [#1](https://github.com/brunofunnie/chorume_coins/issues/1) in [brunofunnie/chorume_coins](https://github.com/brunofunnie/chorume_coins)
-3. 🗣 Commented on [#4421](https://github.com/goreleaser/goreleaser/issues/4421#issuecomment-1816350914) in [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser)
-4. 🗣 Commented on [#4421](https://github.com/goreleaser/goreleaser/issues/4421#issuecomment-1812807721) in [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser)
-5. 🎉 Merged PR [#1](https://github.com/gabrielcipriano/file-sort/pull/1) in [gabrielcipriano/file-sort](https://github.com/gabrielcipriano/file-sort)
+1. 💪 Opened PR [#4428](https://github.com/goreleaser/goreleaser/pull/4428) in [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser)
+2. 💪 Opened PR [#4427](https://github.com/goreleaser/goreleaser/pull/4427) in [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser)
+3. ❗ Opened issue [#1](https://github.com/brunofunnie/chorume_coins/issues/1) in [brunofunnie/chorume_coins](https://github.com/brunofunnie/chorume_coins)
+4. 🗣 Commented on [#4421](https://github.com/goreleaser/goreleaser/issues/4421#issuecomment-1816350914) in [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser)
+5. 🗣 Commented on [#4421](https://github.com/goreleaser/goreleaser/issues/4421#issuecomment-1812807721) in [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser)
 <!--END_SECTION:activity-->
 
 ### <img src="https://media3.giphy.com/media/S4CNuVzv50UH6gG5AN/giphy.gif?cid=ecf05e47dbmkqif1p4g2lpyegp44k864gkmp9p7bzp2k9hxh&ep=v1_stickers_search&rid=giphy.gif&ct=s" height="24"></img> Lets connect 

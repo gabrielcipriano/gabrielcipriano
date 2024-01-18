@@ -3,11 +3,11 @@
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#5](https://github.com/brunofunnie/chorume_coins/pull/5) in [brunofunnie/chorume_coins](https://github.com/brunofunnie/chorume_coins)
-2. 🗣 Commented on [#4429](https://github.com/goreleaser/goreleaser/pull/4429#issuecomment-1817945245) in [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser)
-3. 💪 Opened PR [#4429](https://github.com/goreleaser/goreleaser/pull/4429) in [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser)
-4. 💪 Opened PR [#4428](https://github.com/goreleaser/goreleaser/pull/4428) in [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser)
-5. 💪 Opened PR [#4427](https://github.com/goreleaser/goreleaser/pull/4427) in [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser)
+1. 💪 Opened PR [#2](https://github.com/agicommies/communex/pull/2) in [agicommies/communex](https://github.com/agicommies/communex)
+2. 💪 Opened PR [#5](https://github.com/brunofunnie/chorume_coins/pull/5) in [brunofunnie/chorume_coins](https://github.com/brunofunnie/chorume_coins)
+3. 🗣 Commented on [#4429](https://github.com/goreleaser/goreleaser/pull/4429#issuecomment-1817945245) in [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser)
+4. 💪 Opened PR [#4429](https://github.com/goreleaser/goreleaser/pull/4429) in [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser)
+5. 💪 Opened PR [#4428](https://github.com/goreleaser/goreleaser/pull/4428) in [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser)
 <!--END_SECTION:activity-->
 
 ### <img src="https://media3.giphy.com/media/S4CNuVzv50UH6gG5AN/giphy.gif?cid=ecf05e47dbmkqif1p4g2lpyegp44k864gkmp9p7bzp2k9hxh&ep=v1_stickers_search&rid=giphy.gif&ct=s" height="24"></img> Lets connect 
